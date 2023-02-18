@@ -4,8 +4,10 @@
 
 /**
  * main - Positive anything is better than negative nothing
+ * betty style must always be used
  * Return: Always 0 (Success)
  */
+
 int main(void)
 {
 	int n;
@@ -25,3 +27,4 @@ int main(void)
 		printf("%d is negative\n", n);
 	}
 	return (0);
+}
